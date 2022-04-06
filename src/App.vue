@@ -2,7 +2,7 @@
   <div id="app">
     <Title msg="Welcome to Your Vue.js App" />
   </div>
-</template>
+</template>0
 
 <script>
 import Title from "./components/Title.vue";
